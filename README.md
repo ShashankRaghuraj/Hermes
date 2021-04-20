@@ -1,2 +1,2 @@
 # Hermes
-An Insurance Bot
+An Insurance Bot for discord
