@@ -2,4 +2,4 @@
 An Insurance Bot for discord
 
 
-#### *Archived*
+#### *Archived* Doesn't fully work
